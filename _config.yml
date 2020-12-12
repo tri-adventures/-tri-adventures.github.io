@@ -1,2 +1,7 @@
+plugins:
+  - jekyll-multiple-languages-plugin
 theme: jekyll-theme-architect
-title: tri-adventures
+
+languages: ["zh", "en"]
+exclude_from_localizations: ["javascript", "images", "css"]
+default_locale_in_subfolder: true
