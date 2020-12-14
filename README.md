@@ -12,6 +12,7 @@
 * [綠三角公園](./adventures/GreenTrianglePark.md)
   - 進度: 公園計畫認領中, 與里長/里幹事口頭報告.
   - 規劃方向: 冒險公園 + 食物森林
+  - 位址: [高雄市楠梓區德富街底 (接翠屏國中小)](https://www.openstreetmap.org/way/884708306)
 
 ![](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/126569727_10157976291752523_8771879714827965080_n.jpg?_nc_cat=104&ccb=2&_nc_sid=825194&_nc_ohc=2FcjHVamYnMAX-mkhQp&_nc_ht=scontent-tpe1-1.xx&oh=f1b24a2d2db93f3fc85e63f80479572c&oe=5FFB3021)
 
