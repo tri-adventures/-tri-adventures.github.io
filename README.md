@@ -22,6 +22,9 @@
 * [後勁溪論壇](./adventures/HoujinRiverForum.md)
   - 國際經驗分享論壇 (與非洲朋友共同主持, 籌備中)
 
+* [鄰里交通環境改善](./adventures/CuipingAreaTrafficPlan.md)
+  - 鄰居提案/學者研究
+
 ---
 
 ## 特別感謝相關組織與團體
