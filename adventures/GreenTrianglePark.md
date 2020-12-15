@@ -18,11 +18,23 @@
 ## 方向
 
 ### 冒險公園
+基本規則: 「自由玩耍，同時自己負責」
 
 - 冒險日 (計畫準備中)
 - 國際日/非洲日 (計畫準備中)
 
+參考方向:
+- [從紐約 play:groundNYC 經驗，看冒險遊戲場如何養出民主下一代](https://eyesonplace.net/2018/11/23/9177/)
+- [play:groundNYC](https://www.play-ground.nyc/)
+- [日195座冒險遊戲場 無塑膠遊具、水泥工程](https://news.pts.org.tw/article/423209?fbclid=IwAR0O6ZzimyXVVCP4eki2EcnwT3S-H3axUZoKq6jVvsUV1pGYsaiWc7XRFUg)
+
 ### 食物森林
+
+基本規則: 「別摘光，為別人留一些。」
+
+參考方向:
+- [食物森林創辦人 種出西雅圖的夢想家園](https://vision.udn.com/vision/story/12171/1191288)
+- [Beacon Food Forest](https://beaconfoodforest.org/)
 
 - 執行中
 
